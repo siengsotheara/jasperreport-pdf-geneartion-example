@@ -10,6 +10,12 @@
 
 Build-time requirement: JDK 8 or above and Maven 3.2.5 or above.
 
+
+## Docker
+
+docker-compose build --no-cache
+docker-compose up -d
+
 ## HowTo
 
 - Git clone Project

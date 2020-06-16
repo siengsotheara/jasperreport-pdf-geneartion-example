@@ -43,7 +43,7 @@
         <dependency>
             <groupId>net.sf.jasperreports</groupId>
             <artifactId>jasperreports</artifactId>
-            <version>6.6.0</version>
+            <version>6.12.2</version>
         </dependency>
 
         <dependency>
@@ -58,4 +58,8 @@
             <version>1.0.0.RELEASE</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>app</finalName>
+    </build>
 </project>
