@@ -46,6 +46,15 @@
 		<exportFonts/>
 	</fontFamily>
 
+	<fontFamily name="Arial Black">
+		<normal><![CDATA[fonts/ArialBlack/Arial-Black.ttf]]></normal>
+		<bold><![CDATA[fonts/ArialBlack/Arial-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/ArialBlack/Arial-Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/ArialBlack/Arial-Bold-Italic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
 	<fontFamily name="GDTKhmerMEF2">
 		<normal><![CDATA[fonts/GDTKhmerMEF2/KhmerMEF2-Regular.ttf]]></normal>
 		<bold><![CDATA[fonts/GDTKhmerMEF2/KhmerMEF2-Regular.ttf]]></bold>

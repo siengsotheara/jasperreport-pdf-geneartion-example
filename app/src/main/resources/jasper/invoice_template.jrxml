@@ -145,7 +145,7 @@
 							<textField>
 								<reportElement x="0" y="0" width="338" height="30" uuid="c37ffe1c-cf80-49c7-8a32-5d86df171799"/>
 								<textElement verticalAlignment="Middle">
-									<font fontName="Arial Rounded MT Bold" size="12" isBold="true"/>
+									<font fontName="Arial Black" size="12" isBold="true"/>
 									<paragraph leftIndent="5"/>
 								</textElement>
 								<textFieldExpression><![CDATA[$R{jasper.invoice.entry.product.label}]]></textFieldExpression>
@@ -168,7 +168,7 @@
 							<textField>
 								<reportElement x="0" y="0" width="57" height="30" uuid="f2d1c1bd-4786-4109-8abf-56f7930c1d99"/>
 								<textElement verticalAlignment="Middle">
-									<font fontName="Arial Rounded MT Bold" size="12" isBold="true"/>
+									<font fontName="Arial Black" size="12" isBold="true"/>
 									<paragraph leftIndent="5"/>
 								</textElement>
 								<textFieldExpression><![CDATA[$R{jasper.invoice.entry.price.label}]]></textFieldExpression>
@@ -199,7 +199,7 @@
 							<textField>
 								<reportElement x="0" y="0" width="57" height="30" uuid="6400e6e0-49bd-4378-9d86-e0b49db68d01"/>
 								<textElement verticalAlignment="Middle">
-									<font fontName="Arial Rounded MT Bold" size="12" isBold="true"/>
+									<font fontName="Arial Black" size="12" isBold="true"/>
 									<paragraph leftIndent="5"/>
 								</textElement>
 								<textFieldExpression><![CDATA[$R{jasper.invoice.entry.quantity.label}]]></textFieldExpression>
@@ -230,7 +230,7 @@
 							<textField>
 								<reportElement x="0" y="0" width="75" height="30" uuid="e1b3e777-27e3-4645-9377-a993624c7d2c"/>
 								<textElement verticalAlignment="Middle">
-									<font fontName="Arial Rounded MT Bold" size="12" isBold="true"/>
+									<font fontName="Arial Black" size="12" isBold="true"/>
 									<paragraph leftIndent="5"/>
 								</textElement>
 								<textFieldExpression><![CDATA[$R{jasper.invoice.entry.total.label}]]></textFieldExpression>
