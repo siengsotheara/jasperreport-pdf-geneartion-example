@@ -53,7 +53,7 @@
         </dependency>
 
         <dependency>
-            <groupId>kh.gov.tax</groupId>
+            <groupId>kh.khmer.sample</groupId>
             <artifactId>jasper-kh-fonts</artifactId>
             <version>1.0.0.RELEASE</version>
         </dependency>
