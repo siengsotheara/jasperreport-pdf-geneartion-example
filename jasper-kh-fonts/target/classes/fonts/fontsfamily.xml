@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+	<fontFamily name="GDTKhmerBTB">
+		<normal><![CDATA[fonts/GDTKhmerBTB/Battambang-Regular.ttf]]></normal>
+		<italic><![CDATA[fonts/GDTKhmerBTB/Battambang-Regular.ttf]]></italic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="GDTKhmerWing2">
+		<normal><![CDATA[fonts/GDTKhmerWing2/wingdings2.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="GDTTacteing">
+		<normal><![CDATA[fonts/GDTTacteing/Tacteing.TTF]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="KhmerOSmuollight">
+		<normal><![CDATA[fonts/KhmerOSmuollight/KhmerOSmuollight.TTF]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="Moul">
+		<normal><![CDATA[fonts/Moul/Moul.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="GDTTimeNewRoman">
+		<normal><![CDATA[fonts/GDTTimeNewRoman/Tinos-Regular.ttf]]></normal>
+		<bold><![CDATA[fonts/GDTTimeNewRoman/Tinos-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/GDTTimeNewRoman/Tinos-Italic.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/GDTTimeNewRoman/Tinos-BoldItalic.ttf]]></boldItalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+	<fontFamily name="GDTKhmerMEF2">
+		<normal><![CDATA[fonts/GDTKhmerMEF2/KhmerMEF2-Regular.ttf]]></normal>
+		<bold><![CDATA[fonts/GDTKhmerMEF2/KhmerMEF2-Regular.ttf]]></bold>
+		<italic><![CDATA[fonts/GDTKhmerMEF2/KhmerMEF2-Regular.ttf]]></italic>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+</fontFamilies>
