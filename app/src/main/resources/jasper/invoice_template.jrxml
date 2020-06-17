@@ -63,7 +63,7 @@
 			<staticText>
 				<reportElement x="60" y="50" width="130" height="45" uuid="fab0c8f3-59ee-445f-b331-e211404b8a82"/>
 				<textElement>
-					<font fontName="Moul" size="22"/>
+					<font fontName="KhmerOSmuollight" size="22"/>
 				</textElement>
 				<text><![CDATA[ប៉ិគក់កម្ពុជា]]></text>
 			</staticText>
@@ -86,28 +86,28 @@
 				<textField>
 					<reportElement x="0" y="31" width="380" height="19" uuid="8af70123-a7c6-4ff7-91eb-6adc1fd0d3e9"/>
 					<textElement verticalAlignment="Top">
-						<font fontName="Arial" size="11" isBold="false"/>
+						<font fontName="Arial Black" size="11" isBold="false"/>
 					</textElement>
 					<textFieldExpression><![CDATA[$P{order}.getAddress().getFirstName()  + " " +  $P{order}.getAddress().getLastName()]]></textFieldExpression>
 				</textField>
 				<textField>
 					<reportElement x="0" y="51" width="380" height="19" uuid="76193d2c-2228-4944-b5d1-999cd7ef6168"/>
 					<textElement verticalAlignment="Top">
-						<font fontName="Arial" size="11" isBold="false"/>
+						<font fontName="Arial Black" size="11" isBold="false"/>
 					</textElement>
 					<textFieldExpression><![CDATA[$P{order}.getAddress().getStreetName()]]></textFieldExpression>
 				</textField>
 				<textField>
 					<reportElement x="0" y="71" width="380" height="19" uuid="76193d2c-2228-4944-b5d1-999cd7ef6168"/>
 					<textElement verticalAlignment="Top">
-						<font fontName="Arial" size="11" isBold="false"/>
+						<font fontName="Arial Black" size="11" isBold="false"/>
 					</textElement>
 					<textFieldExpression><![CDATA[$P{order}.getAddress().getPostalCode()  + " " + $P{order}.getAddress().getTown()]]></textFieldExpression>
 				</textField>
 				<textField>
 					<reportElement x="0" y="91" width="380" height="19" uuid="76193d2c-2228-4944-b5d1-999cd7ef6168"/>
 					<textElement verticalAlignment="Top">
-						<font fontName="Arial" size="11" isBold="false"/>
+						<font fontName="Arial Black" size="11" isBold="false"/>
 					</textElement>
 					<textFieldExpression><![CDATA[$P{order}.getAddress().getCountry()]]></textFieldExpression>
 				</textField>
